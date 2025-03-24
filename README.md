@@ -2,7 +2,7 @@
 
 ---
 layout: default
-title: My GitHub.io Page
+title: Zinuo's page
 ---
 
 # Welcome to My GitHub.io Site
